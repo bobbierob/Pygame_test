@@ -13,7 +13,7 @@ DISPLAYSURF = pygame.display.set_mode((WINDOWWIDTH, WINDOWHEIGHT), 0, 32)
 pygame.display.set_caption('JumpingCat v0.1 Alpha')
 WHITE = (255, 255, 255)
 
-# Constants
+# environment constants
 GRAVITY = 0.3
 FRICTION = 0.1
 
